@@ -29,7 +29,7 @@ int funcInput(string strParameter) { // function that ginds the ara given length
 
 	}
 
-	return intArea; // returning area calculation
+	return intArea; // return of area calculatioN
 
 }
 
